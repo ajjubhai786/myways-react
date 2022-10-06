@@ -1,5 +1,9 @@
-.App {
-  text-align: center;
+body{
+  background-color: light red;
+  /* background-image:url('./components/images/background.jpg'); */
+  background-size: cover;
+  height: 100vh;
+  font-family: poppins;
 }
 
 .App-logo {

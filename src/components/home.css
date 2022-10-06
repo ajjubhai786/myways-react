@@ -1,0 +1,122 @@
+body {
+    font-family: sans-serif;
+  }
+  .container5 {
+    font-family: poppins;
+    color: rgb(14, 193, 17);
+    background-color: rgb(26, 56, 121);
+    width: 100%;
+    text-align: center;
+    display: flex;
+    padding: 10px;
+    justify-content: center;
+  }
+  
+  .homecontainer {
+    position: relative;
+    display: flex;
+    color: white;
+  }
+  
+  .sidecontainer-1 {
+    height: 50vh;
+    background: rgba(28, 28, 28, 0.8);
+    width: 500vh;
+  }
+  
+  .sidecontainer-1 .city-container h3 {
+    font-size: 35px;
+    margin: auto;
+    padding-left: 30px;
+  }
+  
+  .homecontainer .moon {
+    border-radius: 15px;
+    float: right;
+    width: 200px;
+  }
+  
+  .table1 td {
+    text-align: center;
+  }
+  
+  .weather {
+    width: 50%;
+    float: left;
+    padding-left: 30px;
+  }
+  
+  .weather h1 {
+    font-size: 90px;
+    margin: auto;
+  }
+  
+  .weather p {
+    margin: auto;
+    font-weight: bold;
+  }
+  
+  .day-container {
+    display: flex;
+    background-color: white;
+    color: black;
+    width: 100%;
+  
+    border-radius: 10px;
+  }
+ 
+  .details {
+    display: flex;
+  }
+  
+  .side-container {
+    background: rgba(28, 28, 28, 0.8);
+    margin-left: 10px;
+    padding-left: 50px;
+    width: 100%;
+  }
+  
+  .side-container h3 {
+    text-align: center;
+  }
+
+  .spl {
+    background: rgba(28, 28, 28, 0.8);
+    color: white;
+    width: 100%;
+  }
+  
+  .table {
+    display: flex;
+    background-color: white;
+    border-radius: 0.5rem;
+    padding-left: 50px;
+    overflow-x: auto;
+  }
+  
+  .table a {
+    padding-left: 10px;
+    width: 200px;
+  }
+  
+  .info {
+    margin-left: 30px;
+  }
+  
+  .info button {
+    padding: 10px;
+    color: white;
+    background-color: #ff0303;
+    border: none;
+    border-radius: 5px;
+    font-family: poppins;
+    cursor: pointer;
+  }
+  
+  .info-detail {
+    margin-left: auto;
+    margin-right: auto;
+  
+    width: 30%;
+    font-family: poppins;
+  }
